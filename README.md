@@ -1,8 +1,7 @@
 # CopUpOn Full Stack Project
 
-    ## Tech Stack
-
-    - ReactJs
+ ## Tech Stack
+  - ReactJs
 
 # Getting Started with Create React App
 
